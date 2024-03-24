@@ -1,0 +1,19 @@
+{
+  "name": "44h1-simple-calculator",
+  "version": "1.1.0",
+  "description": "calculator making ",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mutahir",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
